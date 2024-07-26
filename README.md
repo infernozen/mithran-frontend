@@ -1,4 +1,4 @@
-# medizen
+# mithran
 
 A new Flutter project.
 

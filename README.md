@@ -1,4 +1,4 @@
-# mithran
+# Mithran
 
 A new Flutter project.
 

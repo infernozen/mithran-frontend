@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
-import 'package:medizen/screen/expense-section/cropexpensepage.dart';
-import 'package:medizen/widgets/charts/expensetrackerchart.dart';
+import 'package:mithran/screen/kahataexpensetracker/cropexpensepage.dart';
+import 'package:mithran/widgets/charts/expensetrackerchart.dart';
 
 class ExpenseTracker extends StatefulWidget {
   const ExpenseTracker({super.key});

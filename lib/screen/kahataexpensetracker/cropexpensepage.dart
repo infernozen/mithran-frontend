@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
-import 'package:medizen/widgets/charts/cropexpensechart.dart';
-import 'package:medizen/models/expensedata.dart';
+import 'package:mithran/widgets/charts/cropexpensechart.dart';
+import 'package:mithran/models/expensedata.dart';
 
 class CropExpense extends StatefulWidget {
   List<double> cropProfits;

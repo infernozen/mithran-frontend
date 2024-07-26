@@ -3,7 +3,7 @@ import "package:flutter/material.dart";
 import 'package:intl/intl.dart';
 import 'package:convex_bottom_bar/convex_bottom_bar.dart';
 import '../../widgets/charts/constructbarchart.dart';
-import '../expense-section/expensetrackerpage.dart';
+import '../kahataexpensetracker/expensetrackerpage.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

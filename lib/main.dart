@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:medizen/splashscreen.dart';
+import 'package:mithran/splashscreen.dart';
 
 void main() {
   runApp(const MyApp());
